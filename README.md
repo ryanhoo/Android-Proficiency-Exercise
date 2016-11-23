@@ -54,6 +54,10 @@ Take a look on the design work. It's created in Sketch but in case you don't hav
 - click on the item to view detailed information in a WebView
 - cache all the posts in database so that you can display data when network is unavailable
 
+#### Artboard Preview
+
+You will need to look up the specific colors/spaces/fonts here [Sketch Measure](/Sketch\ Measure/index.html)
+
 ![Artboard](/materials/Artboard.png)
 
 ## Hints
