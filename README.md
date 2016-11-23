@@ -56,7 +56,9 @@ Take a look on the design work. It's created in Sketch but in case you don't hav
 
 #### Artboard Preview
 
-You will need to look up the specific colors/spaces/fonts here [Sketch Measure](/Sketch\ Measure/index.html)
+You will need to look up the specific colors/spaces/fonts in [Sketch Measure](/Sketch\ Measure/index.html).
+
+**Download this project and open `Sketch Measure/index.html` in your browser.**
 
 ![Artboard](/materials/Artboard.png)
 
@@ -66,6 +68,11 @@ You will need to look up the specific colors/spaces/fonts here [Sketch Measure](
 - Use Git to manage the source code and commit as much as you could with a **CLEAR** history.
 - Comment your code when you think it's necessary.
 - Use clear method and variable names.
+- Use Material Design support library and find the icons you need here [https://material.io/icons](https://material.io/icons).
 - Feel free to use any third-party library you're familiar with, but choose wisely.
 - Try to polish your code as much as possible.
 - Impress your interviewer.
+
+## pull request
+
+Once you've finished, you may launch a pull request to this project.
