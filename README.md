@@ -78,6 +78,15 @@ You will need to look up the specific colors/spaces/fonts in [Sketch Measure](/S
 
 Once you've finished, you may launch a pull request to this project.
 
+**To make us understand your purpose of pull request, just mark a label on it.**
+
+### Use labels to mark you purpose
+
+- #for-fun
+- #for-interview
+
+> Tips: You can find the labels on the right panel in your pull-request/issue editing page.
+
 ## Acknowledgements
 
 - [gank.io](http://gank.io)
