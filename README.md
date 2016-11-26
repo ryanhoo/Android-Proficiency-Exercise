@@ -43,6 +43,8 @@ Read the API documentation of [http://gank.io/api](http://gank.io/api) carefully
 
 ### Product
 
+![Artboard](/materials/Artboard.png)
+
 Take a look on the design work. It's created in Sketch but in case you don't have Sketch installed, png file will also be provided. This app consists of these functions which require you to implement
 - a Toolbar with tabs(Android, iOS, 前端), users can switch between these tabs to view posts under a specific topic
 - a List to display all kinds of posts
@@ -55,13 +57,13 @@ Take a look on the design work. It's created in Sketch but in case you don't hav
 - click on the item to view detailed information in a WebView
 - cache all the posts in database so that you can display data when network is unavailable
 
-#### Artboard Preview
+#### Sketch Measure
 
-You will need to look up the specific colors/spaces/fonts in [Sketch Measure](/Sketch\ Measure/index.html).
+You might need to look up the specific colors/spaces/fonts in [Sketch Measure](/Sketch\ Measure/index.html).
 
 **Download this project and open `Sketch Measure/index.html` in your browser.**
 
-![Artboard](/materials/Artboard.png)
+![Sketch Measure](/materials/Sketch-Measure.png)
 
 ## Hints
 
