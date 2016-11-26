@@ -1,3 +1,4 @@
+
 # Android Proficiency Exercise
 
 ## Overview
@@ -76,3 +77,13 @@ You will need to look up the specific colors/spaces/fonts in [Sketch Measure](/S
 ## pull request
 
 Once you've finished, you may launch a pull request to this project.
+
+## Acknowledgements
+
+- [gank.io](http://gank.io)
+
+  [gank.io](http://gank.io) is a platform built by [daimajia](https://github.com/daimajia), famous for it's daily high-quality recommendations. We are truly grateful for using its open API.
+
+- [goeasyway](https://github.com/goeasyway)
+
+  The idea of this kind of interview was stole from a foreign company, first showed up in this blog [post](http://www.jianshu.com/p/3178e527ec76) by [goeasyway](https://github.com/goeasyway).
