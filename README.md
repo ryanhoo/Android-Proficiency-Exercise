@@ -59,9 +59,9 @@ Take a look on the design work. It's created in Sketch but in case you don't hav
 
 #### Sketch Measure
 
-You might need to look up the specific colors/spaces/fonts in [Sketch Measure](/Sketch\ Measure/index.html).
+You might need to look up the specific `colors`/`paddings`/`margins`/`font sizes` in [Sketch Measure](/Sketch\ Measure/index.html).
 
-**Download this project and open `Sketch Measure/index.html` in your browser.**
+> Tip: Download this project and open `Sketch Measure/index.html` in your browser.
 
 ![Sketch Measure](/materials/Sketch-Measure.png)
 
