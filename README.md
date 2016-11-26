@@ -85,7 +85,7 @@ Once you've finished, you may launch a pull request to this project.
 - #for-fun
 - #for-interview
 
-> Tips: You can find the labels on the right panel in your pull-request/issue editing page.
+> Tips: You can find the labels on the right panel in your pull-request/issue editing page. If you don't have the permission then leave a message there and we will set the right label for you.
 
 ## Acknowledgements
 
